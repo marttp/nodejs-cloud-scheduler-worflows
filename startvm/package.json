@@ -1,0 +1,16 @@
+{
+  "name": "start-vm",
+  "version": "1.0.0",
+  "author": "Thanaphoom Babparn",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marttp/nodejs-cloud-scheduler-worflows"
+  },
+  "engines": {
+    "node": ">=v13.5.0"
+  },
+  "dependencies": {
+    "@google-cloud/compute": "^2.0.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "linenotify",
+  "version": "1.0.0",
+  "author": "Thanaphoom Babparn",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marttp/nodejs-cloud-scheduler-worflows"
+  },
+  "engines": {
+    "node": ">=v13.5.0"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "qs": "^6.9.4"
+  }
+}
